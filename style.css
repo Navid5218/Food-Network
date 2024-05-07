@@ -1,0 +1,121 @@
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+
+}
+.Skip{
+    color: rgb(243, 131, 91);
+}
+.Flexible-Web{
+    display: flex;
+    padding: 7%
+}
+
+.width img{
+    width: 700px;
+}
+.color-gray{
+    color: rgb(86, 84, 84);
+    
+}
+.p1{
+    font-size: 25px;
+}
+.Foody{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(94, 148, 124),rgb(136, 187, 60));
+    padding: 1%;
+    border-radius: 100px;
+    color: aliceblue;
+    font-size: 30px;
+}
+#background{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1600px;
+    margin: 0px;
+}
+#half-width img{
+    width: 430px;
+    
+}
+#Right-Side{
+    padding-left: 200px;
+}    
+.Foody-2{
+    text-decoration: none;
+    color:black;
+    background-image: linear-gradient(rgb(183, 79, 224),rgb(197, 228, 57));
+    border-radius: 100px;
+    padding: 1%;
+    font-size: 30px;
+
+}
+
+#Sec-03{
+    text-align: center;
+    p{
+        padding-right:200px;
+        padding-left: 200px;
+        font-size: 20px
+    }
+}
+.img-01 img{
+width:350px ;
+}
+.Mutton{
+    p{
+        font-size: 20px;
+        padding-right:800px;
+      
+    }
+}
+.text-01{
+    font-size: 20px;
+    border:  solid rgb(255, 255, 255) 10px;
+    border-radius: 40px;
+    padding: 50px 50px 50px 50px;
+    margin: 0px;
+    background-image: -webkit-linear-gradient(rgb(229, 224, 224),rgb(180, 199, 195));
+  
+}
+.img-01{
+    border-radius: 40px;
+   
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+   border: solid whitesmoke
+}
+
+
+.text-03{
+    padding-left: 12.5%;
+    text-align: center;
+    p{
+        font-size: 20px;
+    }
+}
+.Border-03{
+    border:  solid rgb(254, 255, 254) 10px;
+    border-radius: 40px;
+    border-width:5px;
+   
+    
+    background-image: linear-gradient(rgb(177, 121, 220),rgb(208, 209, 142));
+    background-repeat: no-repeat;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    padding-bottom: 100px;
+    padding-top: 05px;
+    
+    p{
+        color: rgb(219, 216, 216);
+        font-size: 15px;
+    }
+}
